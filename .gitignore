@@ -1,0 +1,13 @@
+#IDE
+.idea
+
+#Packages
+node_modules
+
+#Build
+.build
+
+#Tmp
+tmp
+.build
+
